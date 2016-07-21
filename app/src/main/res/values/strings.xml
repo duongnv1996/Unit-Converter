@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Unit Converter</string>
+    <string name="length">Độ dài</string>
+    <string name="coordinate">Toạ độ</string>
+    <string name="area">Diện tích</string>
+    <string name="volume">Thể tích</string>
+    <string name="copy_to_clipboard">Đã copy</string>
+</resources>
